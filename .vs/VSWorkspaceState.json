@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Models\\GameLauncher",
+    "\\Views",
+    "\\Views\\Controls",
+    "\\Views\\Controls\\Settings",
+    "\\Views\\Pages",
+    "\\Views\\Popups",
+    "\\Views\\ViewModels",
+    "\\Views\\Windows"
+  ],
+  "SelectedNode": "\\Models\\GameLauncher\\GameLauncher.cs",
+  "PreviewInSolutionExplorer": false
+}
