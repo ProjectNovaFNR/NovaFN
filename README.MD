@@ -14,6 +14,6 @@ A Full Public Release Of Project Novas Launcher Source Code
 
 3. After its Installed Launch Visual Studio 2022.
 
-4. Click "Open A Local Folder" And Select the Nova Folder you Extracted. 
+4. Click "Open A Local Folder" And Select the Folder you Extracted. 
 
 5. Click Build and your finished!
